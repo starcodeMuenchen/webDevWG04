@@ -1,7 +1,17 @@
 body {
-    background-color: blue;
-}
+    background-color: grey;
+    text-align: center;
+  }
+  
+  h1 {
+    color: yellow;
+  }
+img {
+     width: 400px;
+     height: 280px ;
+ }
+a{color:black}
+.Bild1 {
+  float: left}
 
-h1 {
-    color: red;
-}
+
